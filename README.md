@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evelynLC
 - 👀 I’m interested in 1) Bayesian statistical methods 2) plotting in R
-- 🌱 I’m currently learning <ggplot2> 
+- 🌱 I’m currently learning ggplot2
 - 💞️ 
 - 📫 How to reach me ...
 
